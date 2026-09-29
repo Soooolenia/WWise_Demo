@@ -10,11 +10,27 @@
     "Type": "User",
     "GUID": "{7A1E3CC9-EBC4-40AF-889F-ED6AE766AD70}",
     "Language": "SFX",
-    "Hash": "{A6AEC590-400A-4FB6-57DE-64B4CB4E7982}",
+    "Hash": "{D9F9B273-3A8F-904D-FED0-D4A8E9888504}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main_SoundBank",
     "ShortName": "Main_SoundBank",
     "Path": "Main_SoundBank.bnk",
     "Media": [
+     {
+      "Id": "376855",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Step_08.wav",
+      "CachePath": "95/{9581E3AC-1612-17C1-FD60-68964A3BD763}.wem"
+     },
+     {
+      "Id": "25991651",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Step_01.wav",
+      "CachePath": "88/{888A3E4A-C413-BE20-AECE-DA2A9DFF5937}.wem"
+     },
      {
       "Id": "353748844",
       "Language": "SFX",
@@ -22,9 +38,92 @@
       "Location": "Memory",
       "ShortName": "Collect Sound.wav",
       "CachePath": "C7/{C7F64BF9-1C36-FEF4-ADC3-BAE33D3DF764}.wem"
+     },
+     {
+      "Id": "399175453",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Step_06.wav",
+      "CachePath": "69/{698AA13D-A816-56D0-FBBB-A63CE980A69B}.wem"
+     },
+     {
+      "Id": "475301074",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Step_05.wav",
+      "CachePath": "E3/{E3E08B98-DD2D-7F53-1F2B-60B271DCDA2E}.wem"
+     },
+     {
+      "Id": "598357286",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Step_02.wav",
+      "CachePath": "5C/{5C094D1D-72FF-A647-0DE5-CB583BABFD10}.wem"
+     },
+     {
+      "Id": "716037453",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Step_04.wav",
+      "CachePath": "84/{845575FD-1A30-95C2-3668-328E9EDE2F50}.wem"
+     },
+     {
+      "Id": "735456607",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Step_03.wav",
+      "CachePath": "AD/{ADD98F34-47F3-9EF0-4D39-5AACDEAEBE00}.wem"
+     },
+     {
+      "Id": "762521444",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Step_07.wav",
+      "CachePath": "05/{0532F470-1D4A-6F64-D601-CEED83771924}.wem"
      }
     ],
     "Events": [
+     {
+      "Id": "1866025847",
+      "Name": "Footstep",
+      "ObjectPath": "\\Events\\Sam\\Footstep",
+      "GUID": "{C22EA5CB-A52D-43B0-A34F-3BE6B77D11CB}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.12725623",
+      "DurationMax": "0.15442176",
+      "MediaRefs": [
+       {
+        "Id": "376855"
+       },
+       {
+        "Id": "25991651"
+       },
+       {
+        "Id": "399175453"
+       },
+       {
+        "Id": "475301074"
+       },
+       {
+        "Id": "598357286"
+       },
+       {
+        "Id": "716037453"
+       },
+       {
+        "Id": "735456607"
+       },
+       {
+        "Id": "762521444"
+       }
+      ]
+     },
      {
       "Id": "3050945240",
       "Name": "New_Event",
@@ -42,6 +141,6 @@
     ]
    }
   ],
-  "FileHash": "{8553C313-D897-4E89-CE78-27F9715D933F}"
+  "FileHash": "{ABA8D954-B230-9288-5228-423EC0478869}"
  }
 }

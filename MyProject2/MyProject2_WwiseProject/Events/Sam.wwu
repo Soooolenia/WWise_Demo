@@ -14,6 +14,28 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Footstep" ID="{C22EA5CB-A52D-43B0-A34F-3BE6B77D11CB}">
+					<ChildrenList>
+						<Action Name="" ID="{27D43D2C-9CFC-48FE-9371-7C2091F3A1CF}" ShortID="427923001">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Foot Steps" ID="{21BA3E3C-E329-4D55-8CC3-367D944A2132}" WorkUnitID="{4F23F6D1-E852-4168-8E53-A5A6E2587BE3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Metal_Steps" ID="{7D9C4EDE-B580-4E1A-8CBC-30B3D45FBDEA}">
+					<ChildrenList>
+						<Action Name="" ID="{18C17579-CD62-4D25-A497-99D07B26E048}" ShortID="201339902">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Metal Steps" ID="{6F79750C-C2B0-4737-87DB-0ED8A790AFB5}" WorkUnitID="{4F23F6D1-E852-4168-8E53-A5A6E2587BE3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

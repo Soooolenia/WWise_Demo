@@ -1,6 +1,15 @@
 Event	ID	Name			Wwise Object Path	Notes
+	1866025847	Footstep			\Sam\Footstep	
 	3050945240	New_Event			\Sam\New_Event	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	376855	Step_08	C:\Users\sam.tsai\Documents\GitHub\WWise_Demo\MyProject2\MyProject2_WwiseProject\.cache\95\{9581E3AC-1612-17C1-FD60-68964A3BD763}.wem		\Actor-Mixer Hierarchy\Sam\Foot Steps\Step_08		26076
+	25991651	Step_01	C:\Users\sam.tsai\Documents\GitHub\WWise_Demo\MyProject2\MyProject2_WwiseProject\.cache\88\{888A3E4A-C413-BE20-AECE-DA2A9DFF5937}.wem		\Actor-Mixer Hierarchy\Sam\Foot Steps\Step_01		23808
 	353748844	Collet SFX	C:\Users\sam.tsai\Documents\GitHub\WWise_Demo\MyProject2\MyProject2_WwiseProject\.cache\C7\{C7F64BF9-1C36-FEF4-ADC3-BAE33D3DF764}.wem		\Actor-Mixer Hierarchy\Sam\Collet SFX		827144
+	399175453	Step_06	C:\Users\sam.tsai\Documents\GitHub\WWise_Demo\MyProject2\MyProject2_WwiseProject\.cache\69\{698AA13D-A816-56D0-FBBB-A63CE980A69B}.wem		\Actor-Mixer Hierarchy\Sam\Foot Steps\Step_06		26328
+	475301074	Step_05	C:\Users\sam.tsai\Documents\GitHub\WWise_Demo\MyProject2\MyProject2_WwiseProject\.cache\E3\{E3E08B98-DD2D-7F53-1F2B-60B271DCDA2E}.wem		\Actor-Mixer Hierarchy\Sam\Foot Steps\Step_05		27336
+	598357286	Step_02	C:\Users\sam.tsai\Documents\GitHub\WWise_Demo\MyProject2\MyProject2_WwiseProject\.cache\5C\{5C094D1D-72FF-A647-0DE5-CB583BABFD10}.wem		\Actor-Mixer Hierarchy\Sam\Foot Steps\Step_02		24056
+	716037453	Step_04	C:\Users\sam.tsai\Documents\GitHub\WWise_Demo\MyProject2\MyProject2_WwiseProject\.cache\84\{845575FD-1A30-95C2-3668-328E9EDE2F50}.wem		\Actor-Mixer Hierarchy\Sam\Foot Steps\Step_04		24312
+	735456607	Step_03	C:\Users\sam.tsai\Documents\GitHub\WWise_Demo\MyProject2\MyProject2_WwiseProject\.cache\AD\{ADD98F34-47F3-9EF0-4D39-5AACDEAEBE00}.wem		\Actor-Mixer Hierarchy\Sam\Foot Steps\Step_03		22544
+	762521444	Step_07	C:\Users\sam.tsai\Documents\GitHub\WWise_Demo\MyProject2\MyProject2_WwiseProject\.cache\05\{0532F470-1D4A-6F64-D601-CEED83771924}.wem		\Actor-Mixer Hierarchy\Sam\Foot Steps\Step_07		23048
 
