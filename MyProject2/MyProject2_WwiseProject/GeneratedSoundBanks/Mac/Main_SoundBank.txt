@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3050945240	New_Event			\Sam\New_Event	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	353748844	Collet SFX	C:\Users\sam.tsai\Documents\GitHub\WWise_Demo\MyProject2\MyProject2_WwiseProject\.cache\C7\{C7F64BF9-1C36-FEF4-ADC3-BAE33D3DF764}.wem		\Actor-Mixer Hierarchy\Sam\Collet SFX		827144
+
